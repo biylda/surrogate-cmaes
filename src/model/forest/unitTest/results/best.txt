@@ -1,0 +1,430 @@
+ans =
+
+  3×1 cell array
+
+    'test1_01_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_02_010'
+    'Var'
+    'DENN'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_03_010'
+    'DEMSD'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_04_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_05_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_06_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_07_010'
+    'DENN'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_08_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_09_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_10_010'
+    'DE'
+    'DENN'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_11_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_12_010'
+    'DENN'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_13_010'
+    'SSE'
+    'DENN'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_14_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_15_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_16_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_17_010'
+    'DE'
+    'DE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_18_010'
+    'DE'
+    'DE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_19_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_20_010'
+    'DEMSD'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_21_010'
+    'SSE'
+    'DE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_22_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_23_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test1_24_010'
+    'SSE'
+    'DE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_01_010'
+    'DEMSD'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_02_010'
+    'DE'
+    'DE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_03_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_04_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_05_010'
+    'DEMSD'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_06_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_07_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_08_010'
+    'DEMSD'
+    'Var'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_09_010'
+    'SSE'
+    'DE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_10_010'
+    'SSE'
+    'Var'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_11_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_12_010'
+    'DEMSD'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_13_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_14_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_15_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_16_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_17_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_18_010'
+    'DE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_19_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_20_010'
+    'DE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_21_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_22_010'
+    'SSE'
+    'SSE'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_23_010'
+    'SSE'
+    'DEMSD'
+
+
+ans =
+
+  3×1 cell array
+
+    'test2_24_010'
+    'SSE'
+    'SSE
